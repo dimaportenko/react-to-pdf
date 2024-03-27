@@ -82,6 +82,10 @@ export type Options = Omit<
   page?: Partial<PageConversionOptions>;
   canvas?: Partial<CanvasConversionOptions>;
   overrides?: Partial<ConversionOptions["overrides"]>;
+  render?: {
+    pageSelector?: string;
+    type?: "general" | "by_page";
+  }
 };
 
 export type UsePDFResult = {

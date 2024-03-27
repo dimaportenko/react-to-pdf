@@ -1,6 +1,6 @@
 {
-  "name": "react-to-pdf",
-  "version": "1.0.1",
+  "name": "gosource-react-to-pdf",
+  "version": "1.0.2",
   "description": "Create PDF documents from React Components",
   "source": "src/index.ts",
   "main": "dist/main.js",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivmarcos/react-to-pdf.git"
+    "url": "git+https://github.com/dimaportenko/react-to-pdf.git"
   },
   "author": "Marcos Andrei Ivanechtchuk",
   "license": "MIT",
